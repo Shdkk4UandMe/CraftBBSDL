@@ -2,6 +2,7 @@
 为更多MC玩家提供更快更好的下载源
 <p>由保定昼夜云 https://zyeidc.cn 提供下载支持</p>
 <p>CraftBBS https://craftbbs.top 提供维护</p>
+<p>如需接入请告知QQ1564768791 绿泡泡Shdkk0880</p>
 <p>正式版</p>
 <p>1.21.1：http://pan.zyeidc.cn/f/lOCo/1.21.1.zip</p>
 <p>1.21：http://pan.zyeidc.cn/f/5mF6/1.21.zip</p>
